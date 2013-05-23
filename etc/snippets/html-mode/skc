@@ -1,0 +1,7 @@
+# contributor: Ross McDonald <rossajmcd@gmail.com>
+# name: <div id="">...</div>
+# key: skc
+# --
+<div id="silk-component:$1/$2">
+$0
+</div
